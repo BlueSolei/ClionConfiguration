@@ -1,2 +1,0 @@
-# ClionConfiguration
-Clion Configurartion
