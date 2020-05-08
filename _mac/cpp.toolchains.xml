@@ -2,7 +2,6 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Clang" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="/usr/local/opt/llvm/bin/clang" customCXXCompilerPath="/usr/local/opt/llvm/bin/clang++" debuggerKind="BUNDLED_LLDB" />
-      <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
     </toolchains>
   </component>
 </application>
