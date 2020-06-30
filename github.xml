@@ -3,6 +3,9 @@
     <account id="8d871d23-d44a-4343-8cd9-8e245ec4ebb7" name="shaul.fridman@gmail.com">
       <server host="github.com" />
     </account>
+    <account id="afbb4e17-6771-4763-8a4e-1ee2f0dc32e5" name="Shaul.Fridman@gmail.com">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
