@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="asm" type="Assembly File" />
+      <removed_mapping ext="asm" type="Assembly file" />
+    </extensionMap>
+  </component>
+</application>
